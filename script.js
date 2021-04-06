@@ -14,6 +14,6 @@ const max = array =>{
   return currentMax
 }
 
-console.log(max(array))
+
 
 
